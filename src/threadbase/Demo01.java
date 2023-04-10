@@ -43,8 +43,8 @@ public class Demo01 {
 
 
             //5. 使用Integer
-            /**
-             * @see java.lang.Integer#value
+            /*
+              @see java.lang.Integer#value
              */
 //            Integer 拆包的时候是new 了一个对象 其中构造器的value 是一个final 的int 类型
 //            JMM 对final关键字保证可见性
